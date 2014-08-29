@@ -9,17 +9,16 @@
 
 ## Gulp build plugins
 
- * [gulp-bem](https://github.com/floatdrop/gulp-bem)
- * [gulp-bh](https://github.com/floatdrop/gulp-bh)
- * [gulp-bem-pack](https://github.com/floatdrop/gulp-bem-pack)
+ * [gulp-bem](https://github.com/floatdrop/gulp-bem) - build helpers for working with layers, dependencies and blocks.
+ * [gulp-bh](https://github.com/floatdrop/gulp-bh) - render BEMJSON with bh templates.
+ * [gulp-bem-pack](https://github.com/floatdrop/gulp-bem-pack) - pack JavaScript files with layers support.
 
 ## Layers
 
- * [bem-bootstrap](https://github.com/matmuchrapna/bem-bootstrap)
- * [bem-base](https://github.com/matmuchrapna/bem-base)
- * [pure-base](https://github.com/floatdrop/pure-base), [pure-grids](https://github.com/floatdrop/pure-grids)
+ * Pure framework port: [pure-base](https://github.com/floatdrop/pure-base), [pure-grids](https://github.com/floatdrop/pure-grids)
+ * Bootstrap framework port: [bem-bootstrap](https://github.com/matmuchrapna/bem-bootstrap)
 
 ## Sites
 
- * [getbem](https://getbem.com/)
- * [bem-info](https://bem.info/)
+ * [getbem](https://getbem.com/) - get into BEM with easy step-by-step guideline.
+ * [bem-info](https://bem.info/) - lots of articles and information about BEM.
