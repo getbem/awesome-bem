@@ -2,7 +2,12 @@
 
 > List of tools, sites and articles
 
-## Gulp build-pipeline
+## Articles
+
+ * [CSS guidelines](http://cssguidelin.es/#bem-like-naming)
+ * [BEM methodology for small projects](http://www.smashingmagazine.com/2014/07/17/bem-methodology-for-small-projects/)
+
+## Gulp build plugins
 
  * [gulp-bem](https://github.com/floatdrop/gulp-bem)
  * [gulp-bh](https://github.com/floatdrop/gulp-bh)
