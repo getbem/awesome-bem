@@ -7,13 +7,20 @@
  * [CSS guidelines](http://cssguidelin.es/#bem-like-naming)
  * [BEM methodology for small projects](http://www.smashingmagazine.com/2014/07/17/bem-methodology-for-small-projects/)
 
-## Gulp build plugins
+## Build
+
+### ENB (successor of [bem-tools](https://github.com/bem/bem-tools))
+
+ * [enb](https://github.com/enb-make/enb) - build system with lots of bundled plugins and complex dependency system.
+
+### Gulp
 
  * [gulp-bem](https://github.com/floatdrop/gulp-bem) - build helpers for working with layers, dependencies and blocks.
  * [gulp-bh](https://github.com/floatdrop/gulp-bh) - render BEMJSON with bh templates.
  * [gulp-bem-pack](https://github.com/floatdrop/gulp-bem-pack) - pack JavaScript files with layers support.
 
 ## Layers
+These layers does not rely on building system you use. They often contain CSS files, that written in BEM methodology and templates to generate HTML.
 
  * Pure framework port: [pure-base](https://github.com/floatdrop/pure-base), [pure-grids](https://github.com/floatdrop/pure-grids)
  * Bootstrap framework port: [bem-bootstrap](https://github.com/matmuchrapna/bem-bootstrap)
