@@ -1,13 +1,13 @@
 # Awesome BEM
 
-> List of tools, sites and articles
+> [Tools](#tools), [sites](#sites), [articles](#articles) about BEM (frontend development method)
 
 ## Articles
 
  * [CSS guidelines](http://cssguidelin.es/#bem-like-naming)
  * [BEM methodology for small projects](http://www.smashingmagazine.com/2014/07/17/bem-methodology-for-small-projects/)
 
-## Build
+## Tools
 
 ### ENB (successor of [bem-tools](https://github.com/bem/bem-tools))
 
@@ -19,7 +19,7 @@
  * [gulp-bh](https://github.com/floatdrop/gulp-bh) - render BEMJSON with bh templates.
  * [gulp-bem-pack](https://github.com/floatdrop/gulp-bem-pack) - pack JavaScript files with layers support.
 
-## Layers
+### Layers
 These layers does not rely on building system you use. They often contain CSS files, that written in BEM methodology and templates to generate HTML.
 
  * [pure-base](https://github.com/floatdrop/pure-base), [pure-grids](https://github.com/floatdrop/pure-grids) - [Pure](https://purecss.io/) framework
