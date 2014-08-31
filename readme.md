@@ -13,15 +13,17 @@
 
  * [bemto](https://github.com/kizu/bemto) - mixins for writing BEM-style code for [Jade](http://jade-lang.com/).
  * [beml](https://github.com/zenwalker/node-beml) - super simple HTML postprocessor to handle BEM.
+ * [bh](https://github.com/enb-make/bh) - declarative BEMJSON to HTML processor.
 
-### ENB (successor of [bem-tools](https://github.com/bem/bem-tools))
+### Build systems
+
+#### ENB (successor of [bem-tools](https://github.com/bem/bem-tools))
 
  * [enb](https://github.com/enb-make/enb) - build system with lots of bundled plugins and complex dependency system.
 
-### Gulp
+#### Gulp
 
  * [gulp-bem](https://github.com/floatdrop/gulp-bem) - build helpers for working with layers, dependencies and blocks.
- * [gulp-bh](https://github.com/floatdrop/gulp-bh) - render BEMJSON with bh templates.
  * [gulp-bem-pack](https://github.com/floatdrop/gulp-bem-pack) - pack JavaScript files with layers support.
 
 ### Layers
