@@ -34,5 +34,4 @@ These layers does not rely on building system you use. They often contain CSS fi
 
 ## Sites
 
- * [getbem.com](https://getbem.com/) - get into BEM with easy step-by-step guideline.
  * [bem.info](https://bem.info/) - lots of articles and information about BEM.
