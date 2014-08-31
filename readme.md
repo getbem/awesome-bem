@@ -9,6 +9,10 @@
 
 ## Tools
 
+### Template engines
+
+ * [bemto](https://github.com/kizu/bemto) - mixins for writing BEM-style code for [Jade](http://jade-lang.com/)
+
 ### ENB (successor of [bem-tools](https://github.com/bem/bem-tools))
 
  * [enb](https://github.com/enb-make/enb) - build system with lots of bundled plugins and complex dependency system.
