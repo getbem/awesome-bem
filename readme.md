@@ -12,6 +12,7 @@
 ### Template engines
 
  * [bemto](https://github.com/kizu/bemto) - mixins for writing BEM-style code for [Jade](http://jade-lang.com/)
+ * [beml](https://github.com/zenwalker/node-beml) - super simple HTML postprocessor to handle BEM.
 
 ### ENB (successor of [bem-tools](https://github.com/bem/bem-tools))
 
