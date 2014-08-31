@@ -17,12 +17,7 @@
 
 ### Build systems
 
-#### ENB (successor of [bem-tools](https://github.com/bem/bem-tools))
-
  * [enb](https://github.com/enb-make/enb) - build system with lots of bundled plugins and complex dependency system.
-
-#### Gulp
-
  * [gulp-bem](https://github.com/floatdrop/gulp-bem) - build helpers for working with layers, dependencies and blocks.
  * [gulp-bem-pack](https://github.com/floatdrop/gulp-bem-pack) - pack JavaScript files with layers support.
 
