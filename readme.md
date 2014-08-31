@@ -11,7 +11,7 @@
 
 ### Template engines
 
- * [bemto](https://github.com/kizu/bemto) - mixins for writing BEM-style code for [Jade](http://jade-lang.com/)
+ * [bemto](https://github.com/kizu/bemto) - mixins for writing BEM-style code for [Jade](http://jade-lang.com/).
  * [beml](https://github.com/zenwalker/node-beml) - super simple HTML postprocessor to handle BEM.
 
 ### ENB (successor of [bem-tools](https://github.com/bem/bem-tools))
@@ -27,8 +27,8 @@
 ### Layers
 These layers does not rely on building system you use. They often contain CSS files, that written in BEM methodology and templates to generate HTML.
 
- * [pure-base](https://github.com/floatdrop/pure-base), [pure-grids](https://github.com/floatdrop/pure-grids) - [Pure](https://purecss.io/) framework
- * [bem-bootstrap](https://github.com/matmuchrapna/bem-bootstrap) - [Bootstrap](http://getbootstrap.com/) framework
+ * [pure-base](https://github.com/floatdrop/pure-base), [pure-grids](https://github.com/floatdrop/pure-grids) - [Pure](https://purecss.io/) framework.
+ * [bem-bootstrap](https://github.com/matmuchrapna/bem-bootstrap) - [Bootstrap](http://getbootstrap.com/) framework.
 
 ## Sites
 
