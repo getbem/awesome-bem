@@ -30,4 +30,4 @@ These layers does not rely on building system you use. They often contain CSS fi
 
 ## Sites
 
- * [bem.info](https://bem.info/) - lots of articles and information about BEM in Yandex.
+ [bem.info](http://bem.info) — official web site for BEM, technologies for creating web applications. 
