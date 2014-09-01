@@ -1,4 +1,4 @@
-# Awesome BEM [![Gitter chat](https://badges.gitter.im/bem/talk.png)](https://gitter.im/bem/talk)
+# [Awesome](https://github.com/jnv/lists) BEM [![Gitter chat](https://badges.gitter.im/bem/talk.png)](https://gitter.im/bem/talk)
 
 > [Tools](#tools), [sites](#sites), [articles](#articles) about BEM (frontend development method)
 
