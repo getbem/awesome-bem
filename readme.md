@@ -30,4 +30,4 @@ These layers does not rely on building system you use. They often contain CSS fi
 
 ## Sites
 
- * [bem.info](https://bem.info/) - lots of articles and information about BEM in Yandex.
+ [bem.info](http://bem.info) — BEM technologies for full stack development official site. You can find up to date information about methodology, tools and libraries there as well as BEM team's blog, events and live forum.
