@@ -11,17 +11,16 @@
 
 ## Tools
 
-### Template engines
-
- * [bemto](https://github.com/kizu/bemto) - mixins for writing BEM-style code for [Jade](http://jade-lang.com/).
- * [beml](https://github.com/zenwalker/node-beml) - super simple HTML postprocessor to handle BEM.
- * [bh](https://github.com/enb-make/bh) - declarative BEMJSON to HTML processor.
-
 ### Build systems
 
  * [enb](https://github.com/enb-make/enb) - build system with lots of bundled plugins and complex dependency system.
  * [gulp-bem](https://github.com/floatdrop/gulp-bem) - build helpers for working with layers, dependencies and blocks.
  * [gulp-bem-pack](https://github.com/floatdrop/gulp-bem-pack) - pack JavaScript files with layers support.
+
+### JQuery plugins
+
+ * [jquery-bem](https://github.com/hoho/jquery-bem)
+ * [jquery-bemhelpers](https://github.com/ingdir/jquery-bemhelpers)
 
 ### Layers
 These layers does not rely on building system you use. They often contain CSS files, that written in BEM methodology and templates to generate HTML.
@@ -31,4 +30,10 @@ These layers does not rely on building system you use. They often contain CSS fi
 
 ## Sites
 
- [bem.info](http://bem.info) — official web site for BEM, technologies for creating web applications. 
+ * [bem.info](http://bem.info) — official web site for BEM, technologies for creating web applications.  
+
+### Template engines
+
+ * [bemto](https://github.com/kizu/bemto) - mixins for writing BEM-style code for [Jade](http://jade-lang.com/).
+ * [beml](https://github.com/zenwalker/node-beml) - super simple HTML postprocessor to handle BEM.
+ * [bh](https://github.com/enb-make/bh) - declarative BEMJSON to HTML processor.
