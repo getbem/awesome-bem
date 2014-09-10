@@ -13,9 +13,9 @@
 
 ### Build systems
 
- * [enb](https://github.com/enb-make/enb) - build system with lots of bundled plugins and complex dependency system.
- * [gulp-bem](https://github.com/floatdrop/gulp-bem) - build helpers for working with layers, dependencies and blocks.
- * [gulp-bem-pack](https://github.com/floatdrop/gulp-bem-pack) - pack JavaScript files with layers support.
+ * [enb](https://github.com/enb-make/enb) – build system with lots of bundled plugins and complex dependency system.
+ * [gulp-bem](https://github.com/floatdrop/gulp-bem) – build helpers for working with layers, dependencies and blocks.
+ * [gulp-bem-pack](https://github.com/floatdrop/gulp-bem-pack) – pack JavaScript files with layers support.
 
 ### JQuery plugins
 
@@ -25,15 +25,15 @@
 ### Layers
 These layers does not rely on building system you use. They often contain CSS files, that written in BEM methodology and templates to generate HTML.
 
- * [bem-bootstrap](https://github.com/matmuchrapna/bem-bootstrap) - [Bootstrap](http://getbootstrap.com/) framework.
+ * [bem-bootstrap](https://github.com/matmuchrapna/bem-bootstrap) – [Bootstrap](http://getbootstrap.com/) framework.
 
 ## Sites
 
- * [bem.info](http://bem.info/) — official web site for BEM, technologies for creating web applications.
- * [getbem.com](http://getbem.com/) - simple step-by-step guide into BEM.
+ * [bem.info](http://bem.info/) – official web site for BEM, technologies for creating web applications.
+ * [getbem.com](http://getbem.com/) – simple step-by-step guide into BEM.
 
 ### Template engines
 
- * [bemto](https://github.com/kizu/bemto) - mixins for writing BEM-style code for [Jade](http://jade-lang.com/).
- * [beml](https://github.com/zenwalker/node-beml) - super simple HTML postprocessor to handle BEM.
- * [bh](https://github.com/enb-make/bh) - declarative BEMJSON to HTML processor.
+ * [bemto](https://github.com/kizu/bemto) – mixins for writing BEM-style code for [Jade](http://jade-lang.com/).
+ * [beml](https://github.com/zenwalker/node-beml) – super simple HTML postprocessor to handle BEM.
+ * [bh](https://github.com/enb-make/bh) – declarative BEMJSON to HTML processor.
