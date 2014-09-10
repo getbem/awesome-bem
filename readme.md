@@ -8,6 +8,7 @@
  * [CSS guidelines](http://cssguidelin.es/#bem-like-naming)
  * [BEM methodology for small projects](http://www.smashingmagazine.com/2014/07/17/bem-methodology-for-small-projects/)
  * [BEM It! for Brandwatch](http://www.slideshare.net/MaxShirshin/bem-it-for-brandwatch)
+ * [Used and Abused](http://www.phase2technology.com/blog/used-and-abused-css-inheritance-and-our-misuse-of-the-cascade/) – CSS Inheritance and Our Misuse of the Cascade.
 
 ## Tools
 
