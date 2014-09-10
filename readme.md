@@ -29,7 +29,8 @@ These layers does not rely on building system you use. They often contain CSS fi
 
 ## Sites
 
- * [bem.info](http://bem.info) — official web site for BEM, technologies for creating web applications.  
+ * [bem.info](http://bem.info/) — official web site for BEM, technologies for creating web applications.
+ * [getbem.com](http://getbem.com/) - simple step-by-step guide into BEM.
 
 ### Template engines
 
