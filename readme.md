@@ -9,6 +9,8 @@
  * [BEM methodology for small projects](http://www.smashingmagazine.com/2014/07/17/bem-methodology-for-small-projects/)
  * [BEM It! for Brandwatch](http://www.slideshare.net/MaxShirshin/bem-it-for-brandwatch)
  * [Used and Abused](http://www.phase2technology.com/blog/used-and-abused-css-inheritance-and-our-misuse-of-the-cascade/) – CSS Inheritance and Our Misuse of the Cascade.
+ * [Objects in Space](https://medium.com/objects-in-space/objects-in-space-f6f404727) — A style-guide for modular SASS development using SMACSS and BEM
+ * [How to Scale and Maintain Legacy CSS with Sass and SMACSS](http://webuild.envato.com/blog/how-to-scale-and-maintain-legacy-css-with-sass-and-smacss/)
 
 ## Tools
 
