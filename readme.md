@@ -11,6 +11,7 @@
  * [Used and Abused](http://www.phase2technology.com/blog/used-and-abused-css-inheritance-and-our-misuse-of-the-cascade/) – CSS Inheritance and Our Misuse of the Cascade.
  * [Objects in Space](https://medium.com/objects-in-space/objects-in-space-f6f404727) — A style-guide for modular SASS development using SMACSS and BEM
  * [How to Scale and Maintain Legacy CSS with Sass and SMACSS](http://webuild.envato.com/blog/how-to-scale-and-maintain-legacy-css-with-sass-and-smacss/)
+ * [Building a modular My Health Skills with BEM and Sass](http://www.bluegg.co.uk/building-my-health-skills-part-3/)
 
 ## Tools
 
