@@ -31,11 +31,6 @@ These layers does not rely on building system you use. They often contain CSS fi
 
  * [bem-bootstrap](https://github.com/matmuchrapna/bem-bootstrap) – [Bootstrap](http://getbootstrap.com/) framework.
 
-## Sites
-
- * [bem.info](http://bem.info/) – official web site for BEM, technologies for creating web applications.
- * [getbem.com](http://getbem.com/) – simple step-by-step guide into BEM.
-
 ### Template engines
 
  * [bemto](https://github.com/kizu/bemto) – mixins for writing BEM-style code for [Jade](http://jade-lang.com/).
