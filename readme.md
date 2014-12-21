@@ -22,6 +22,10 @@
  * [gulp-bem](https://github.com/floatdrop/gulp-bem) – build helpers for working with layers, dependencies and blocks.
  * [gulp-bem-pack](https://github.com/floatdrop/gulp-bem-pack) – pack JavaScript files with layers support.
 
+### Frameworks
+
+ * [get-i-bem](https://github.com/tenorok/get-i-bem) - independent build of bem-bl library (i-bem block).
+
 ### JQuery plugins
 
  * [jquery-bem](https://github.com/hoho/jquery-bem)
