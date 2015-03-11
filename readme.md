@@ -31,6 +31,7 @@
 These layers does not rely on building system you use. They often contain CSS files, that written in BEM methodology and templates to generate HTML.
 
  * [bem-bootstrap](https://github.com/matmuchrapna/bem-bootstrap) – [Bootstrap](http://getbootstrap.com/) framework.
+ * [csswizardry-grids](https://github.com/csswizardry/csswizardry-grids) – simple, fluid, nestable, flexible, Sass-based, responsive grid system.
 
 ### Template engines
 
