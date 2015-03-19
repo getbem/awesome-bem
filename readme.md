@@ -38,3 +38,7 @@ These layers does not rely on building system you use. They often contain CSS fi
  * [bemto](https://github.com/kizu/bemto) – mixins for writing BEM-style code for [Jade](http://jade-lang.com/).
  * [beml](https://github.com/zenwalker/node-beml) – super simple HTML postprocessor to handle BEM.
  * [bh](https://github.com/enb-make/bh) – declarative BEMJSON to HTML processor.
+
+### Other
+
+ * [BEViS](https://github.com/bevis-ui) - BEM alternative (continuation of the Completely Independent Blocks methodology)
